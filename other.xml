@@ -1,0 +1,35 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="TempProfile">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Checkstyle</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CheckStyle</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="entitySuffix" value="" />
+    <option name="ENTITY_SUFFIX" value="" />
+    <option name="ADD_TO_UNIT" value="true" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>
