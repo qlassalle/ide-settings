@@ -10,16 +10,8 @@
           <option name="url" value="https://github.com/qlassalle/JavaFXTutorial.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Miage-Paris-Ouest/ENT-Etudiant.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="qlassalle@gmail.com" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Dropbox/Miage/M1/Semestre 2/Projet/TestGit" />
+    <option name="cloneParentDir" value="$USER_HOME$/Dropbox/Projets perso/Java/JavaFX/JavaFXTutorial" />
   </component>
 </application>
