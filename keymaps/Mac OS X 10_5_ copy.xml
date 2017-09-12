@@ -51,6 +51,12 @@
     <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="ctrl j" />
