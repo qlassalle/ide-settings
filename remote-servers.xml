@@ -1,0 +1,7 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Google App Engine" type="google-app-engine">
+      <configuration email="qlassalle" password-stored="true" />
+    </remote-server>
+  </component>
+</application>
