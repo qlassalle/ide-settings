@@ -1,4 +1,8 @@
 <keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+    <keyboard-shortcut first-keystroke="meta ampersand" />
+  </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
