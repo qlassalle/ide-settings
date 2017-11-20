@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="meta ampersand" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta e_with_acute" />
+  </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
