@@ -8,6 +8,11 @@
     <keyboard-shortcut first-keystroke="meta e_with_acute" />
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta colon" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
