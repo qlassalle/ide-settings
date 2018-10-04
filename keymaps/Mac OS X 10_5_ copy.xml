@@ -4,16 +4,11 @@
     <keyboard-shortcut first-keystroke="meta left_parenthesis" />
   </action>
   <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="meta ampersand" />
   </action>
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
     <keyboard-shortcut first-keystroke="meta quote" />
-  </action>
-  <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="meta 6" />
-    <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
@@ -24,6 +19,9 @@
     <keyboard-shortcut first-keystroke="shift meta 9" />
     <keyboard-shortcut first-keystroke="meta c_with_cedilla" />
   </action>
+  <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
+  <action id="CollapseBlock" />
+  <action id="CollapseSelection" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
     <keyboard-shortcut first-keystroke="meta alt divide" />
@@ -31,52 +29,39 @@
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
     <keyboard-shortcut first-keystroke="shift meta slash" />
     <keyboard-shortcut first-keystroke="shift meta divide" />
-    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta period" />
     <keyboard-shortcut first-keystroke="shift meta colon" />
   </action>
   <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="meta slash" />
-    <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta colon" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
-  <action id="Diff.UpdatedFiles" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
-  <action id="FindBugs.PreviewSelectBugInstance">
-    <mouse-shortcut keystroke="alt button1" />
-  </action>
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
-    <mouse-shortcut keystroke="button5" />
-  </action>
   <action id="Images.Editor.ToggleGrid" />
-  <action id="MoveTabDown">
-    <keyboard-shortcut first-keystroke="meta alt down" />
-  </action>
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="meta alt right" />
-  </action>
-  <action id="NextOccurence" />
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="f1" />
-    <keyboard-shortcut first-keystroke="ctrl j" />
-    <mouse-shortcut keystroke="control button2" />
-    <keyboard-shortcut first-keystroke="alt q" />
-    <keyboard-shortcut first-keystroke="ctrl q" />
-  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
-  <action id="TagDocumentationNavigation" />
-  <action id="Uml.ShowDiff" />
-  <action id="Vcs.Log.ShowDiff" />
-  <action id="openAssertEqualsDiff" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
 </keymap>
