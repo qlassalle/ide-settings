@@ -1,8 +1,9 @@
 <application>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
-  <component name="LiveEditOptions" updatePolicy="AUTO" />
+  <component name="LiveEditOptions" nodeUpdateOnChanges="true" useJBChromeExtension="true" />
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
