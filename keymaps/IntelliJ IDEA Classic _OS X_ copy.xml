@@ -82,6 +82,9 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="openAssertEqualsDiff" />
 </keymap>
