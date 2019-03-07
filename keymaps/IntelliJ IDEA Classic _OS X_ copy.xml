@@ -1,4 +1,8 @@
 <keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+    <keyboard-shortcut first-keystroke="meta left_parenthesis" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="meta ampersand" />
