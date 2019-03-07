@@ -60,8 +60,14 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
